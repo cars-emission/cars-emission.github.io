@@ -15,7 +15,13 @@
   .input {
     width: 166px;
   }
+  li {
+    padding: 0;
+    font-size: 16px;
+  }
   #results {
-    padding-bottom: 140px;
+    padding-bottom: 183px;
   }
 }
+
+
