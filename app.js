@@ -1469,6 +1469,221 @@ let json = `{"emissions":[
       "title": "Euro 6d",
       "directive": "B6d" 
     }
+    ,
+    {
+      "title": "Euro I",
+      "directive": "91/542A/EWG" 
+    }
+    ,
+    {
+      "title": "Euro II",
+      "directive": "91/542B/EWG" 
+    }
+    ,
+    {
+      "title": "Euro III",
+      "directive": "1999/96A/EG" 
+    }
+    ,
+    {
+      "title": "Euro IV",
+      "directive": "1999/96B1/EG" 
+    }
+    ,
+    {
+      "title": "Euro V",
+      "directive": "1999/96B2/EG" 
+    }
+    ,
+    {
+      "title": "Euro EEV",
+      "directive": "1999/96C/EG" 
+    }
+    ,
+    {
+      "title": "Euro III",
+      "directive": "2001/27A/EG" 
+    }
+    ,
+    {
+      "title": "Euro IV",
+      "directive": "2001/27B1/EG" 
+    }
+    ,
+    {
+      "title": "Euro V",
+      "directive": "2001/27B2/EG" 
+    }
+    ,
+    {
+      "title": "Euro EEV",
+      "directive": "2001/27C/EG" 
+    }
+    ,
+    {
+      "title": "Euro III",
+      "directive": "2005/78A/EG" 
+    }
+    ,
+    {
+      "title": "Euro IV",
+      "directive": "2005/78B/EG" 
+    }
+    ,
+    {
+      "title": "Euro IV",
+      "directive": "2005/78C/EG" 
+    }
+    ,
+    {
+      "title": "Euro V",
+      "directive": "2005/78D/EG" 
+    }
+    ,
+    {
+      "title": "Euro V",
+      "directive": "2005/78E/EG"
+    }
+    ,
+    {
+      "title": "Euro V",
+      "directive": "2005/78F/EG"
+    }
+    ,
+    {
+      "title": "Euro V",
+      "directive": "2005/78G/EG"
+    }
+    ,
+    {
+      "title": "Euro EEV",
+      "directive": "2005/78H/EG"
+    }
+    ,
+    {
+      "title": "Euro EEV",
+      "directive": "2005/78I/EG"
+    }
+    ,
+    {
+      "title": "Euro EEV",
+      "directive": "2005/78J/EG"
+    }
+    ,
+    {
+      "title": "Euro EEV",
+      "directive": "2005/78K/EG"
+    }
+    ,
+    {
+      "title": "Euro III",
+      "directive": "2006/51A/EG" 
+    }
+    ,
+    {
+      "title": "Euro IV",
+      "directive": "2006/51B/EG" 
+    }
+    ,
+    {
+      "title": "Euro IV",
+      "directive": "2006/51C/EG" 
+    }
+    ,
+    {
+      "title": "Euro V",
+      "directive": "2006/51D/EG" 
+    }
+    ,
+    {
+      "title": "Euro V",
+      "directive": "2006/51D/EG" 
+    }
+    ,
+    {
+      "title": "Euro V",
+      "directive": "2006/51F/EG" 
+    }
+    ,
+    {
+      "title": "Euro V",
+      "directive": "2006/51G/EG" 
+    }
+    ,
+    {
+      "title": "Euro EEV",
+      "directive": "2006/51H/EG" 
+    }
+    ,
+    {
+      "title": "Euro EEV",
+      "directive": "2006/51I/EG" 
+    }
+    ,
+    {
+      "title": "Euro EEV",
+      "directive": "2006/51J/EG" 
+    }
+    ,
+    {
+      "title": "Euro EEV",
+      "directive": "2006/51K/EG" 
+    }
+    ,
+    {
+      "title": "Euro III",
+      "directive": "2006/81A/EG" 
+    }
+    ,
+    {
+      "title": "Euro IV",
+      "directive": "2006/81B/EG" 
+    }
+    ,
+    {
+      "title": "Euro IV",
+      "directive": "2006/81C/EG" 
+    }
+    ,
+    {
+      "title": "Euro V",
+      "directive": "2006/81D/EG" 
+    }
+    ,
+    {
+      "title": "Euro V",
+      "directive": "2006/81E/EG" 
+    }
+    ,
+    {
+      "title": "Euro V",
+      "directive": "2006/81F/EG" 
+    }
+    ,
+    {
+      "title": "Euro V",
+      "directive": "2006/81G/EG" 
+    }
+    ,
+    {
+      "title": "Euro EEV",
+      "directive": "2006/81H/EG" 
+    }
+    ,
+    {
+      "title": "Euro EEV",
+      "directive": "2006/81I/EG"
+    }
+    ,
+    {
+      "title": "Euro EEV",
+      "directive": "2006/81J/EG"
+    }
+    ,
+    {
+      "title": "Euro EEV",
+      "directive": "2006/81K/EG"
+    }
   ]}`;
   /*
    
