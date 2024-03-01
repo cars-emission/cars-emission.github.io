@@ -1897,7 +1897,7 @@ let json = `{"emissions":[
     ,
     {
       "title": "Euro IV",
-      "directive": "ECE-R49.03B"
+      "directive": "ECE-R49.03 B1"
     }
     ,
     {
@@ -1913,21 +1913,6 @@ let json = `{"emissions":[
     {
       "title": "Euro IV",
       "directive": "ECE-R49.04B1"
-    }
-    ,
-    {
-      "title": "Euro IV",
-      "directive": "ECE-R49.05B"
-    }
-    ,
-    {
-      "title": "Euro IV",
-      "directive": "ECE-R49.05B1"
-    }
-    ,
-    {
-      "title": "Euro IV",
-      "directive": "ECE-R49.05C"
     }
     ,
     {
@@ -2127,17 +2112,32 @@ let json = `{"emissions":[
     ,
     {
       "title": "Euro IV",
+      "directive": "1999/96/EG; B1; B2; C; EEV 5"
+    }
+    ,
+    {
+      "title": "Euro IV",
       "directive": "1999/96/EG; B1"
     }
     ,
     {
-      "title": "Euro V",
-      "directive": "1999/96/EG; B2"
+      "title": "Euro IV",
+      "directive": "1999/96/EG; B1; B2"
+    }
+    ,
+    {
+      "title": "Euro IV",
+      "directive": "1999/96/EG; C; EEV 5"
     }
     ,
     {
       "title": "Euro EEV",
       "directive": "1999/96/EG; C; EEV"
+    }
+    ,
+    {
+      "title": "Euro V",
+      "directive": "1999/96/EG; B2"
     }
     ,
     {
@@ -2168,11 +2168,6 @@ let json = `{"emissions":[
     {
       "title": "Euro V",
       "directive": "ECE-R49.04B2"
-    }
-    ,
-    {
-      "title": "Euro V",
-      "directive": "ECE-R49.05B2"
     }
     ,
     {
@@ -2949,8 +2944,131 @@ let json = `{"emissions":[
       "title": "Euro VI",
       "directive": "136/2014"
     }
-    
-
+    ,
+    {
+      "title": "Euro 2",
+      "directive": "S-ARM D3/D3 I"
+    }
+    ,
+    {
+      "title": "Euro 2",
+      "directive": "S-ARM D4/D4 I"
+    }
+    ,
+    {
+      "title": "Euro 3",
+      "directive": "98/69/EG I, A"
+    }
+    ,
+    {
+      "title": "Euro 2",
+      "directive": "98/69/EG II-III; A"
+    }
+    ,
+    {
+      "title": "Euro 3",
+      "directive": "98/69/EG I-III; A/D4 I"
+    }
+    ,
+    {
+      "title": "Euro 4",
+      "directive": "98/69/EG I; B"
+    }
+    ,
+    {
+      "title": "Euro 3",
+      "directive": "98/69/EG II-III, B"
+    }
+    ,
+    {
+      "title": "Euro 3",
+      "directive": "1999/96/EG; A"
+    }
+    ,
+    {
+      "title": "Euro 0",
+      "directive": "88/77/EWG"
+    }
+    ,
+    {
+      "title": "Euro I",
+      "directive": "91/542/EWG"
+    }
+    ,
+    {
+      "title": "Euro I",
+      "directive": "96/1A/EG"
+    }
+    ,
+    {
+      "title": "Euro I",
+      "directive": "96/1B/EG"
+    }
+    ,
+    {
+      "title": "Euro 4",
+      "directive": "(EU)134/2014A"
+    }
+    ,
+    {
+      "title": "Euro 4",
+      "directive": "(EU)134/2014A1"
+    }
+    ,
+    {
+      "title": "Euro 5",
+      "directive": "(EU)134/2014A2"
+    }
+    ,
+    {
+      "title": "Euro 4",
+      "directive": "(EU)2016/1824A"
+    }
+    ,
+    {
+      "title": "Euro 4",
+      "directive": "(EU)2016/1824A1"
+    }
+    ,
+    {
+      "title": "Euro 5",
+      "directive": "(EU)2016/1824A2"
+    }
+    ,
+    {
+      "title": "Euro 4",
+      "directive": "(EU)2018/295A"
+    }
+    ,
+    {
+      "title": "Euro 4",
+      "directive": "(EU)2018/295A1"
+    }
+    ,
+    {
+      "title": "Euro 5",
+      "directive": "(EU)2018/295A2"
+    }
+    ,
+    {
+      "title": "Euro 1",
+      "directive": "97/24"
+    }
+    ,
+    {
+      "title": "Euro 2",
+      "directive": "2002/51:A"
+    }
+    ,
+    {
+      "title": "Euro 3",
+      "directive": "2002/51:B"
+    }
+    ,
+    {
+      "title": "Euro 3",
+      "directive": "2006/72;C"
+    }
   ]}`;
 
 let data = JSON.parse(json);
