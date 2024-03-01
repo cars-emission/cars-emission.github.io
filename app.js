@@ -3092,9 +3092,13 @@ function findEmission(ev) {
       emission.directive.toLowerCase().indexOf(searchTerm) > -1
     ) {
       item.innerHTML = emission.title;
-      results.appendChild(item);
+      if (search.value != "") {
+        results.appendChild(item);
+      }
     }
   });
+  // console.log(search.value);
+  // console.log(results.textContent);
 }
 function clearAll(ev) {
   search.value = "";
