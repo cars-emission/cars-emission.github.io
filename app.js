@@ -2436,517 +2436,517 @@ let json = `{"emissions":[
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "715/2007N"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "715/2007O"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "715/2007P"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "715/2007Q"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "715/2007R"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "715/2007S"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "715/2007T"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "715/2007U"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "715/2007V"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "715/2007W"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "715/2007X"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "715/2007Y"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "692/2008N"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "692/2008O"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "692/2008P"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "692/2008Q"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "692/2008R"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "692/2008S"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "692/2008T"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "692/2008U"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "692/2008V"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "692/2008W"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "692/2008X"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "692/2008Y"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "566/2011N"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "566/2011O"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "566/2011P"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "566/2011Q"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "566/2011R"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "566/2011S"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "566/2011T"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "566/2011U"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "566/2011V"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "566/2011W"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "566/2011X"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "566/2011Y"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "630/2012N"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "630/2012O"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "630/2012P"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "630/2012Q"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "630/2012R"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "630/2012S"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "630/2012T"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "630/2012U"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "630/2012V"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "630/2012W"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "630/2012X"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "630/2012Y"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "143/2013N"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "143/2013O"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "143/2013P"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "143/2013Q"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "143/2013R"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "143/2013S"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "143/2013T"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "143/2013U"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "143/2013V"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "143/2013W"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "143/2013X"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "143/2013Y"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "171/2013N"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "171/2013O"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "171/2013P"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "171/2013Q"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "171/2013R"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "171/2013S"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "171/2013T"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "171/2013U"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "171/2013V"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "171/2013W"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "171/2013X"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "171/2013Y"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "195/2013N"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "195/2013O"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "195/2013P"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "195/2013Q"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "195/2013R"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "195/2013S"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "195/2013T"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "195/2013U"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "195/2013V"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "195/2013W"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "195/2013X"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "195/2013Y"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "459/2012N"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "459/2012O"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "459/2012P"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "459/2012Q"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "459/2012R"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "459/2012S"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "459/2012T"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "459/2012U"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "459/2012V"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "459/2012W"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "459/2012X"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "459/2012Y"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "459/2012Z"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "595/2009"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "582/2011"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "64/2012"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "519/2013"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "133/2014"
     }
     ,
     {
-      "title": "Euro V",
+      "title": "Euro VI",
       "directive": "136/2014"
     }
     
