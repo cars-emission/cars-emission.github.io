@@ -2142,12 +2142,52 @@ let json = `{"emissions":[
     ,
     {
       "title": "Euro IV",
-      "directive": "2008/74B B1 C"
+      "directive": "2008/74B"
     }
     ,
     {
       "title": "Euro IV",
       "directive": "2008/74B1"
+    }
+    ,
+    {
+      "title": "Euro V",
+      "directive": "2008/74D/EG"
+    }
+    ,
+    {
+      "title": "Euro V",
+      "directive": "2008/74E/EG"
+    }
+    ,
+    {
+      "title": "Euro V",
+      "directive": "2008/74F/EG"
+    }
+    ,
+    {
+      "title": "Euro V",
+      "directive": "2008/74G/EG"
+    }
+    ,
+    {
+      "title": "Euro EEV",
+      "directive": "2008/74H/EG"
+    }
+    ,
+    {
+      "title": "Euro EEV",
+      "directive": "2008/74I/EG"
+    }
+    ,
+    {
+      "title": "Euro EEV",
+      "directive": "2008/74J/EG"
+    }
+    ,
+    {
+      "title": "Euro EEV",
+      "directive": "2008/74K/EG"
     }
     ,
     {
@@ -3085,20 +3125,20 @@ function findEmission(ev) {
   results.innerHTML = "";
 
   let searchTerm = ev.target.value.toLowerCase();
-
   data.emissions.forEach(function (emission) {
     if (
       emission.title.toLowerCase().indexOf(searchTerm) > -1 ||
       emission.directive.toLowerCase().indexOf(searchTerm) > -1
     ) {
       item.innerHTML = emission.title;
-      if (search.value != "") {
+
+      if (searchTerm != "") {
         results.appendChild(item);
+      } else {
+        results.innerHTML = "";
       }
     }
   });
-  // console.log(search.value);
-  // console.log(results.textContent);
 }
 function clearAll(ev) {
   search.value = "";
