@@ -1,0 +1,3110 @@
+[
+    {
+      "title": "Euro 0",
+      "directive": "70/220/EWG"
+    },
+    {
+      "title": "Euro 1",
+      "directive": "91/441A/EWG"
+      
+    },
+    {
+      "title": "Euro 1",
+      "directive": "91/441B/EWG"
+      
+    },
+    {
+      "title": "Euro 1",
+      "directive": "93/59/EWG"
+    },
+    {
+      "title": "Euro 2",
+      "directive": "94/12/EG"
+      
+    },
+    {
+      "title": "Euro 2",
+      "directive": "96/44/EG"
+     
+    },
+    {
+      "title": "Euro 2",
+      "directive": "96/69/EG"
+      
+    },
+    {
+      "title": "Euro 3",
+      "directive": "98/69A/EG"
+      
+    },
+    {
+      "title": "Euro 3",
+      "directive": "98/77A/EG"
+      
+    },
+    {
+      "title": "Euro 3",
+      "directive": "1999/102A/EG"
+      
+    },
+    {
+      "title": "Euro 3",
+      "directive": "2001/100A/EG"
+      
+    },
+    {
+      "title": "Euro 3",
+      "directive": "2001/1A/EG"
+      
+    },
+    {
+      "title": "Euro 3",
+      "directive": "2002/80A/EG"
+      
+    },
+    {
+      "title": "Euro 3",
+      "directive": "2003/76A/EG"
+      
+    },
+    {
+      "title": "Euro 3",
+      "directive": "2006/96A/EG"
+      
+    }
+    ,
+    {
+      "title": "Euro 4",
+      "directive": "98/69B/EG"  
+    }
+    ,
+    {
+      "title": "Euro 4",
+      "directive": "98/69/EG I;B"  
+    }
+    ,
+    {
+      "title": "Euro 4",
+      "directive": "98/77B/EG"
+      
+    },
+    {
+      "title": "Euro 4",
+      "directive": "1999/102B/EG"
+      
+    },
+    {
+      "title": "Euro 4",
+      "directive": "2001/100B/EG"
+      
+    },
+    {
+      "title": "Euro 4",
+      "directive": "2001/1B/EG"
+      
+    },
+    {
+      "title": "Euro 4",
+      "directive": "2002/80B/EG"
+      
+    },
+    {
+      "title": "Euro 4",
+      "directive": "2003/76B/EG"
+      
+    },
+    {
+      "title": "Euro 4",
+      "directive": "2006/96B/EG"
+      
+    },
+    {
+      "title": "Euro 5a",
+      "directive": "(EG)692/2008A"
+     
+    },  
+    {
+        "title": "Euro 5a",
+        "directive": "(EG)692/2008B"
+        
+      },
+      {
+        "title": "Euro 5a",
+        "directive": "(EG)692/2008C"
+        
+      },
+      {
+        "title": "Euro 5a",
+        "directive": "(EG)692/2008D"
+        
+      },
+      {
+        "title": "Euro 5a",
+        "directive": "(EG)692/2008E"
+        
+      },
+      {
+        "title": "Euro 5a",
+        "directive": "(EU)566/2011A"
+        
+      },
+      {
+        "title": "Euro 5a",
+        "directive": "(EU)566/2011B"
+        
+      },
+      {
+        "title": "Euro 5a",
+        "directive": "(EU)566/2011C"
+        
+      },
+      {
+        "title": "Euro 5a",
+        "directive": "(EU)566/2011D"
+        
+      },
+      {
+        "title": "Euro 5a",
+        "directive": "(EU)566/2011E"
+        
+      },
+      {
+        "title": "Euro 5b",
+        "directive": "(EU)566/2011F"
+        
+      },
+      {
+        "title": "Euro 5b",
+        "directive": "(EU)566/2011G"
+        
+      },
+      {
+        "title": "Euro 5b",
+        "directive": "(EU)566/2011H"
+        
+      },
+      {
+        "title": "Euro 5b",
+        "directive": "(EU)566/2011I"
+        
+      },
+      {
+        "title": "Euro 5b",
+        "directive": "(EU)566/2011J"
+        
+      },
+      {
+        "title": "Euro 5b",
+        "directive": "(EU)566/2011K"
+        
+      },
+      {
+        "title": "Euro 5b",
+        "directive": "(EU)566/2011L"
+        
+      },
+      {
+        "title": "Euro 5b",
+        "directive": "(EU)566/2011M"
+        
+      },
+      {
+        "title": "Euro 5b",
+        "directive": "(EG)692/2008F"
+        
+      },
+      {
+        "title": "Euro 5b",
+        "directive": "(EG)692/2008G"
+        
+      },
+      {
+        "title": "Euro 5b",
+        "directive": "(EG)692/2008H"
+        
+      },
+      {
+        "title": "Euro 5b",
+        "directive": "(EG)692/2008I"
+        
+      },
+      {
+        "title": "Euro 5b",
+        "directive": "(EG)692/2008J"
+        
+      },
+      {
+        "title": "Euro 5b",
+        "directive": "(EG)692/2008K"
+        
+      },
+      {
+        "title": "Euro 5b",
+        "directive": "(EG)692/2008L"
+        
+      },
+      {
+        "title": "Euro 5b",
+        "directive": "(EG)692/2008M"
+        
+      },
+      {
+        "title": "Euro 5b",
+        "directive": "(EU)459/2012F"
+        
+      },
+      {
+        "title": "Euro 5b",
+        "directive": "(EU)459/2012G"
+        
+      },
+      {
+        "title": "Euro 5b",
+        "directive": "(EU)459/2012H"
+        
+      },
+      {
+        "title": "Euro 5b",
+        "directive": "(EU)459/2012I"
+        
+      },
+      {
+        "title": "Euro 5b",
+        "directive": "(EU)459/2012J"
+        
+      },
+      {
+        "title": "Euro 5b",
+        "directive": "(EU)459/2012K"
+        
+      },
+      {
+        "title": "Euro 5b",
+        "directive": "(EU)459/2012L"
+        
+      },
+      {
+        "title": "Euro 5b",
+        "directive": "(EU)459/2012M"
+        
+      },
+      {
+        "title": "Euro 6a",
+        "directive": "(EU)459/2012N"
+        
+      },
+      {
+        "title": "Euro 6a",
+        "directive": "(EU)459/2012O"
+        
+      },
+      {
+        "title": "Euro 6a",
+        "directive": "(EU)459/2012P"
+        
+      },
+      {
+        "title": "Euro 6a",
+        "directive": "(EG)692/2008N"
+        
+      },
+      {
+        "title": "Euro 6a",
+        "directive": "(EG)692/2008O"
+        
+      },
+      {
+        "title": "Euro 6a",
+        "directive": "(EG)692/2008P"
+        
+      },
+      {
+        "title": "Euro 6a",
+        "directive": "(EU)566/2011N"
+        
+      },
+      {
+        "title": "Euro 6a",
+        "directive": "(EU)566/2011O"
+        
+      },
+      {
+        "title": "Euro 6a",
+        "directive": "(EU)566/2011P"
+        
+      },
+      {
+        "title": "Euro 6b",
+        "directive": "(EG)692/2008Q"
+        
+      },
+      {
+        "title": "Euro 6b",
+        "directive": "(EG)692/2008R"
+        
+      },
+      {
+        "title": "Euro 6b",
+        "directive": "(EG)692/2008S"
+        
+      },
+      {
+        "title": "Euro 6b",
+        "directive": "(EG)692/2008T"
+        
+      },
+      {
+        "title": "Euro 6b",
+        "directive": "(EG)692/2008U"
+        
+      },
+      {
+        "title": "Euro 6b",
+        "directive": "(EG)692/2008V"
+        
+      },
+      {
+        "title": "Euro 6b",
+        "directive": "(EG)692/2008w"
+        
+      },
+      {
+        "title": "Euro 6b",
+        "directive": "(EG)692/2008X"
+        
+      },
+      {
+        "title": "Euro 6b",
+        "directive": "(EG)692/2008Y"
+        
+      },
+      {
+        "title": "Euro 6b",
+        "directive": "(EU)566/2011Q"
+        
+      },
+      {
+        "title": "Euro 6b",
+        "directive": "(EU)566/2011R"
+        
+      },
+      {
+        "title": "Euro 6b",
+        "directive": "(EU)566/2011S"
+        
+      },
+      {
+        "title": "Euro 6b",
+        "directive": "(EU)566/2011T"
+        
+      },
+      {
+        "title": "Euro 6b",
+        "directive": "(EU)566/2011U"
+        
+      },
+      {
+        "title": "Euro 6b",
+        "directive": "(EU)566/2011V"
+        
+      },
+      {
+        "title": "Euro 6b",
+        "directive": "(EU)566/2011W"
+        
+      },
+      {
+        "title": "Euro 6b",
+        "directive": "(EU)566/2011X"
+        
+      },
+      {
+        "title": "Euro 6b",
+        "directive": "(EU)566/2011Y"
+        
+      } ,
+      {
+        "title": "Euro 6b",
+        "directive": "(EU)459/2012Q"
+        
+      }
+       ,
+      {
+        "title": "Euro 6b",
+        "directive": "(EU)459/2012R"
+        
+      }
+       ,
+      {
+        "title": "Euro 6b",
+        "directive": "(EU)459/2012R"
+        
+      }
+       ,
+      {
+        "title": "Euro 6b",
+        "directive": "(EU)459/2012S"
+        
+      }
+      ,
+      {
+        "title": "Euro 6b",
+        "directive": "(EU)459/2012T"
+        
+      }
+      ,
+      {
+        "title": "Euro 6b",
+        "directive": "(EU)459/2012U"
+        
+      }
+      ,
+      {
+        "title": "Euro 6b",
+        "directive": "(EU)459/2012V"
+        
+      }
+      ,
+      {
+        "title": "Euro 6b",
+        "directive": "(EU)459/2012W"
+        
+      }
+      ,
+      {
+        "title": "Euro 6b",
+        "directive": "(EU)459/2012X"
+        
+      }
+      ,
+      {
+        "title": "Euro 6b",
+        "directive": "(EU)459/2012Y"
+        
+      }
+      ,
+      {
+        "title": "Euro 6c",
+        "directive": "(EU)459/2012ZA"
+        
+      }
+      ,
+      {
+        "title": "Euro 6c",
+        "directive": "(EU)459/2012ZB"
+        
+      }
+      ,
+      {
+        "title": "Euro 6c",
+        "directive": "(EU)459/2012ZC"
+        
+      }
+      ,
+      {
+        "title": "Euro 5b",
+        "directive": "(EU)630/2012F"
+        
+      }
+      ,
+      {
+        "title": "Euro 5b",
+        "directive": "(EU)630/2012G"
+        
+      }
+      ,
+      {
+        "title": "Euro 5b",
+        "directive": "(EU)630/2012H"
+        
+      }
+      ,
+      {
+        "title": "Euro 5b",
+        "directive": "(EU)630/2012I"
+        
+      }
+      ,
+      {
+        "title": "Euro 5b",
+        "directive": "(EU)630/2012J"
+        
+      }
+      ,
+      {
+        "title": "Euro 5b",
+        "directive": "(EU)630/2012K"
+        
+      }
+      ,
+      {
+        "title": "Euro 5b",
+        "directive": "(EU)630/2012L"
+        
+      }
+      ,
+      {
+        "title": "Euro 5b",
+        "directive": "(EU)630/2012M"
+        
+      }
+      ,
+      {
+        "title": "Euro 6a",
+        "directive": "(EU)630/2012N"
+        
+      }
+      ,
+      {
+        "title": "Euro 6a",
+        "directive": "(EU)630/2012O"
+        
+      }
+      ,
+      {
+        "title": "Euro 6a",
+        "directive": "(EU)630/2012P"
+        
+      }
+      ,
+      {
+        "title": "Euro 6a",
+        "directive": "(EU)630/2012Q"
+        
+      }
+      ,
+      {
+        "title": "Euro 6a",
+        "directive": "(EU)630/2012R"
+        
+      }
+      ,
+      {
+        "title": "Euro 6b",
+        "directive": "(EU)630/2012S"
+        
+      }
+      ,
+      {
+        "title": "Euro 6b",
+        "directive": "(EU)630/2012T"
+        
+      }
+      ,
+      {
+        "title": "Euro 6b",
+        "directive": "(EU)630/2012U"
+        
+      }
+      ,
+      {
+        "title": "Euro 6b",
+        "directive": "(EU)630/2012V"
+        
+      }
+      ,
+      {
+        "title": "Euro 6b",
+        "directive": "(EU)630/2012W"
+        
+      }
+      ,
+      {
+        "title": "Euro 6b",
+        "directive": "(EU)630/2012X"
+        
+      }
+      ,
+      {
+        "title": "Euro 6b",
+        "directive": "(EU)630/2012Y"
+        
+      }
+      ,
+      {
+        "title": "Euro 6c",
+        "directive": "(EU)630/2012ZA"
+        
+      }
+      ,
+      {
+        "title": "Euro 6c",
+        "directive": "(EU)630/2012ZB"
+        
+      }
+      ,
+      {
+        "title": "Euro 6c",
+        "directive": "(EU)630/2012ZC"
+        
+      }
+      ,
+      {
+        "title": "Euro 5b",
+        "directive": "(EU)143/2013F"
+        
+      }
+      ,
+      {
+        "title": "Euro 5b",
+        "directive": "(EU)143/2013G"
+        
+      }
+      ,
+      {
+        "title": "Euro 5b",
+        "directive": "(EU)143/2013H"
+        
+      }
+      ,
+      {
+        "title": "Euro 5b",
+        "directive": "(EU)143/2013I"
+        
+      }
+      ,
+      {
+        "title": "Euro 5b",
+        "directive": "(EU)143/2013J"
+        
+      }
+      ,
+      {
+        "title": "Euro 5b",
+        "directive": "(EU)143/2013K"
+        
+      }
+      ,
+      {
+        "title": "Euro 5b",
+        "directive": "(EU)143/2013L"
+        
+      }
+      ,
+      {
+        "title": "Euro 5b",
+        "directive": "(EU)143/2013M"
+        
+      }
+      ,
+      {
+        "title": "Euro 6b",
+        "directive": "(EU)143/2013Q"
+        
+      }
+      ,
+      {
+        "title": "Euro 6b",
+        "directive": "(EU)143/2013R"
+        
+      }
+      ,
+      {
+        "title": "Euro 6b",
+        "directive": "(EU)143/2013S"
+        
+      }
+      ,
+      {
+        "title": "Euro 6b",
+        "directive": "(EU)143/2013T"
+        
+      }
+      ,
+      {
+        "title": "Euro 6b",
+        "directive": "(EU)143/2013U"
+        
+      }
+      ,
+      {
+        "title": "Euro 6b",
+        "directive": "(EU)143/2013V"
+        
+      }
+      ,
+      {
+        "title": "Euro 6b",
+        "directive": "(EU)143/2013W"
+        
+      }
+      ,
+      {
+        "title": "Euro 6b",
+        "directive": "(EU)143/2013X"
+        
+      }
+      ,
+      {
+        "title": "Euro 6b",
+        "directive": "(EU)143/2013Y"
+        
+      }
+      ,
+      {
+        "title": "Euro 6c",
+        "directive": "(EU)143/2013ZA"
+        
+      }
+      ,
+      {
+        "title": "Euro 6c",
+        "directive": "(EU)143/201ZB"
+        
+      }
+      ,
+      {
+        "title": "Euro 6c",
+        "directive": "(EU)143/2013ZC"
+        
+      }
+      ,
+      {
+        "title": "Euro 5b",
+        "directive": "(EU)171/2013F"
+        
+      }
+      ,
+      {
+        "title": "Euro 5b",
+        "directive": "(EU)171/2013G"
+        
+      }
+      ,
+      {
+        "title": "Euro 5b",
+        "directive": "(EU)171/2013H"
+        
+      }
+      ,
+      {
+        "title": "Euro 5b",
+        "directive": "(EU)171/2013I"
+        
+      }
+      ,
+      {
+        "title": "Euro 5b",
+        "directive": "(EU)171/2013J"
+        
+      }
+      ,
+      {
+        "title": "Euro 5b",
+        "directive": "(EU)171/2013K"
+        
+      }
+      ,
+      {
+        "title": "Euro 5b",
+        "directive": "(EU)171/2013L"
+        
+      }
+      ,
+      {
+        "title": "Euro 5b",
+        "directive": "(EU)171/2013M"
+        
+      }
+      ,
+      {
+        "title": "Euro 6b",
+        "directive": "(EU)171/2013Q"
+        
+      }
+      ,
+      {
+        "title": "Euro 6b",
+        "directive": "(EU)171/2013R"
+        
+      }
+      ,
+      {
+        "title": "Euro 6b",
+        "directive": "(EU)171/2013S"
+        
+      }
+      ,
+      {
+        "title": "Euro 6b",
+        "directive": "(EU)171/2013T"
+        
+      }
+      ,
+      {
+        "title": "Euro 6b",
+        "directive": "(EU)171/2013U"
+        
+      }
+      ,
+      {
+        "title": "Euro 6b",
+        "directive": "(EU)171/2013V"
+        
+      }
+      ,
+      {
+        "title": "Euro 6b",
+        "directive": "(EU)171/2013W"
+        
+      }
+      ,
+      {
+        "title": "Euro 6b",
+        "directive": "(EU)171/2013X"
+        
+      }
+      ,
+      {
+        "title": "Euro 6b",
+        "directive": "(EU)171/2013Y"
+        
+      }
+      ,
+      {
+        "title": "Euro 6c",
+        "directive": "(EU)171/2013ZA"
+        
+      }
+      ,
+      {
+        "title": "Euro 6c",
+        "directive": "(EU)171/2013ZB"
+        
+      }
+      ,
+      {
+        "title": "Euro 6c",
+        "directive": "(EU)171/2013ZC"
+        
+      }
+      ,
+      {
+        "title": "Euro 5b",
+        "directive": "(EU)195/2013F"
+        
+      }
+      ,
+      {
+        "title": "Euro 5b",
+        "directive": "(EU)195/2013G"
+        
+      }
+      ,
+      {
+        "title": "Euro 5b",
+        "directive": "(EU)195/2013H"
+        
+      }
+      ,
+      {
+        "title": "Euro 5b",
+        "directive": "(EU)195/2013I"
+        
+      }
+      ,
+      {
+        "title": "Euro 5b",
+        "directive": "(EU)195/2013J"
+        
+      }
+      ,
+      {
+        "title": "Euro 5b",
+        "directive": "(EU)195/2013K"
+        
+      }
+      ,
+      {
+        "title": "Euro 5b",
+        "directive": "(EU)195/2013L"
+        
+      }
+      ,
+      {
+        "title": "Euro 5b",
+        "directive": "(EU)195/2013M"
+        
+      }
+      ,
+      {
+        "title": "Euro 6b",
+        "directive": "(EU)195/2013Q"
+        
+      }
+      ,
+      {
+        "title": "Euro 6b",
+        "directive": "(EU)195/2013R"
+        
+      }
+      ,
+      {
+        "title": "Euro 6b",
+        "directive": "(EU)195/2013S"
+        
+      }
+      ,
+      {
+        "title": "Euro 6b",
+        "directive": "(EU)195/2013T"
+        
+      }
+      ,
+      {
+        "title": "Euro 6b",
+        "directive": "(EU)195/2013U"
+        
+      }
+      ,
+      {
+        "title": "Euro 6b",
+        "directive": "(EU)195/2013V"
+        
+      }
+      ,
+      {
+        "title": "Euro 6b",
+        "directive": "(EU)195/2013W"
+        
+      }
+      ,
+      {
+        "title": "Euro 6b",
+        "directive": "(EU)195/2013X"
+        
+      }
+      ,
+      {
+        "title": "Euro 6b",
+        "directive": "(EU)195/2013Y"
+        
+      }
+      ,
+      {
+        "title": "Euro 6c",
+        "directive": "(EU)195/2013ZA"
+        
+      }
+      ,
+      {
+        "title": "Euro 6c",
+        "directive": "(EU)195/2013ZB"
+        
+      }
+      ,
+      {
+        "title": "Euro 6c",
+        "directive": "(EU)195/2013ZC"
+        
+      }
+      ,
+      {
+        "title": "Euro 6b",
+        "directive": "(EU)133/2014T"
+      }
+      ,
+      {
+        "title": "Euro 6b",
+        "directive": "(EU)133/2014U"
+      }
+      ,
+      {
+        "title": "Euro 6b",
+        "directive": "(EU)133/2014V"
+      }
+      ,
+      {
+        "title": "Euro 6b",
+        "directive": "(EU)133/2014W"
+      }
+      ,
+      {
+        "title": "Euro 6b",
+        "directive": "(EU)133/2014X"
+      }
+      ,
+      {
+        "title": "Euro 6b",
+        "directive": "(EU)133/2014Y"
+      }
+      ,
+      {
+        "title": "Euro 6c",
+        "directive": "(EU)133/2014ZA"
+      }
+      ,
+      {
+        "title": "Euro 6c",
+        "directive": "(EU)133/2014ZB"
+      }
+      ,
+      {
+        "title": "Euro 6c",
+        "directive": "(EU)133/2014ZC"
+      }
+      ,
+      {
+        "title": "Euro 6b",
+        "directive": "(EU)133/2014T"
+      }
+      ,
+      {
+        "title": "Euro 6b",
+        "directive": "(EU)133/2014U"
+      }
+      ,
+      {
+        "title": "Euro 6b",
+        "directive": "(EU)133/2014V"
+      }
+      ,
+      {
+        "title": "Euro 6b",
+        "directive": "(EU)133/2014W"
+      }
+      ,
+      {
+        "title": "Euro 6b",
+        "directive": "(EU)133/2014X"
+      }
+      ,
+      {
+        "title": "Euro 6b",
+        "directive": "(EU)133/2014Y"
+      }
+      ,
+      {
+        "title": "Euro 6c",
+        "directive": "(EU)133/2014ZA"
+      }
+      ,
+      {
+        "title": "Euro 6c",
+        "directive": "(EU)133/2014ZB"
+      }
+      ,
+      {
+        "title": "Euro 6c",
+        "directive": "(EU)133/2014ZC"
+      }
+      ,
+      {
+        "title": "Euro 6c",
+        "directive": "(EU)133/2014ZD"
+      }
+      ,
+      {
+        "title": "Euro 6c",
+        "directive": "(EU)133/2014ZE"
+      }
+      ,
+      {
+        "title": "Euro 6c",
+        "directive": "(EU)133/2014ZF"
+      }
+      ,
+      {
+        "title": "Euro 6d-TEMP",
+        "directive": "(EU)136/2014ZG"
+      }
+      ,
+      {
+        "title": "Euro 6d-TEMP",
+        "directive": "(EU)136/2014ZH"
+      }
+      ,
+      {
+        "title": "Euro 6d-TEMP",
+        "directive": "(EU)136/2014ZI"
+      }
+      ,
+      {
+        "title": "Euro 6d",
+        "directive": "(EU)136/2014ZJ"
+      }
+      ,
+      {
+        "title": "Euro 6d",
+        "directive": "(EU)136/2014ZK"
+      }
+      ,
+      {
+        "title": "Euro 6d",
+        "directive": "(EU)136/2014PLN"
+      }
+      ,
+      {
+        "title": "Euro 6d",
+        "directive": "(EU)136/2014ZL"
+      }
+      ,
+      {
+        "title": "Euro 6c",
+        "directive": "(EU)2017/1151AA"
+      }
+      ,
+      {
+        "title": "Euro 6c",
+        "directive": "(EU)2017/1151AB"
+      }
+      ,
+      {
+        "title": "Euro 6c",
+        "directive": "(EU)2017/1151AC"
+      }
+      ,
+      {
+        "title": "Euro 6c",
+        "directive": "(EU)2017/1151AD"
+      }
+      ,
+      {
+        "title": "Euro 6c",
+        "directive": "(EU)2017/1151AE"
+      }
+      ,
+      {
+        "title": "Euro 6c",
+        "directive": "(EU)2017/1151AF"
+      }
+      ,
+      {
+        "title": "Euro 6d-TEMP",
+        "directive": "(EU)2017/1151AG"
+      }
+      ,
+      {
+        "title": "Euro 6d-TEMP-EVAP",
+        "directive": "(EU)2017/1151BG"
+      }
+      ,
+      {
+        "title": "Euro 6d-TEMP-ISC",
+        "directive": "(EU)2017/1151CG"
+      }
+      ,
+      {
+        "title": "Euro 6d-TEMP-EVAP-ISC",
+        "directive": "(EU)2017/1151DG"
+      }
+      ,
+      {
+        "title": "Euro 6d-TEMP",
+        "directive": "(EU)2017/1151AH"
+      }
+      ,
+      {
+        "title": "Euro 6d-TEMP-EVAP",
+        "directive": "(EU)2017/1151BH"
+      }
+      ,
+      {
+        "title": "Euro 6d-TEMP-EVAP-ISC",
+        "directive": "(EU)2017/1151CH"
+      }
+      ,
+      {
+        "title": "Euro 6d-TEMP",
+        "directive": "(EU)2017/1151AI"
+      }
+      ,
+      {
+        "title": "Euro 6d-TEMP-EVAP",
+        "directive": "(EU)2017/1151BI"
+      }
+      ,
+      {
+        "title": "Euro 6d-TEMP-EVAP-ISC",
+        "directive": "(EU)2017/1151CI"
+      }
+      ,
+      {
+        "title": "Euro 6d",
+        "directive": "(EU)2017/1151AJ"
+      }
+      ,
+      {
+        "title": "Euro 6d",
+        "directive": "(EU)2017/1151AK"
+      }
+      ,
+      {
+        "title": "Euro 6d",
+        "directive": "(EU)2017/1151AL"
+      }
+      ,
+      {
+        "title": "Euro 6d-ISC",
+        "directive": "(EU)2017/1151AM"
+      }
+      ,
+      {
+        "title": "Euro 6d-ISC",
+        "directive": "(EU)2017/1151AN"
+      }
+      ,
+      {
+        "title": "Euro 6d-ISC",
+        "directive": "(EU)2017/1151AO"
+      }
+      ,
+      {
+        "title": "Euro 6d-ISC-FCM",
+        "directive": "(EU)2017/1151AP"
+      }
+      ,
+      {
+        "title": "Euro 6d-ISC-FCM",
+        "directive": "(EU)2017/1151AQ"
+      }
+      ,
+      {
+        "title": "Euro 6d-ISC-FCM",
+        "directive": "(EU)2017/1151AR"
+      },
+      {
+        "title": "Euro 0",
+        "directive": "ECE-R83.00"
+      }
+      ,
+      {
+        "title": "Euro 1",
+        "directive": "ECE-R83.01"
+      }
+      ,
+      {
+        "title": "Euro 1",
+        "directive": "ECE-R83.02"
+      }
+      ,
+      {
+        "title": "Euro 2",
+        "directive": "ECE-R83.03"
+      } ,
+      {
+        "title": "Euro 2",
+        "directive": "ECE-R83.04"
+      }
+      ,
+      {
+        "title": "Euro 3",
+        "directive": "ECE-R83.05I"
+      }
+      ,
+      {
+        "title": "Euro 4",
+        "directive": "ECE-R83.05II"
+      }
+      ,
+      {
+        "title": "Euro 5",
+        "directive": "ECE-R83.05J"
+      }
+      ,
+      {
+        "title": "Euro 5",
+        "directive": "ECE-R83.05K"
+      }
+       ,
+      {
+        "title": "Euro 5",
+        "directive": "ECE-R83.05L"
+      }
+      ,
+      {
+        "title": "Euro 5",
+        "directive": "ECE-R83.05M"
+      }
+      ,
+      {
+        "title": "Euro 3",
+        "directive": "98/69/EG II-III;B"  
+      }
+      ,
+      {
+        "title": "Euro 3",
+        "directive": "1999/96/EG; A"  
+      }
+      ,
+      {
+        "title": "Euro 0",
+        "directive": "A10"  
+      }
+      ,
+      {
+        "title": "Euro 1",
+        "directive": "A11"  
+      }
+      ,
+      {
+        "title": "Euro 2",
+        "directive": "A12"  
+      }
+      ,
+      {
+        "title": "Euro 3",
+        "directive": "A13"  
+      }
+      ,
+      {
+        "title": "Euro 4",
+        "directive": "A14"  
+      }
+      ,
+      {
+        "title": "Euro 5a",
+        "directive": "A15"  
+      }
+      ,
+      {
+        "title": "Euro 5b",
+        "directive": "A16"  
+      }
+      ,
+      {
+        "title": "Euro 6a",
+        "directive": "A17"  
+      }
+      ,
+      {
+        "title": "Euro 6b",
+        "directive": "A18"  
+      }
+      ,
+      {
+        "title": "Euro 6c",
+        "directive": "A19"  
+      }
+      ,
+      {
+        "title": "Euro V",
+        "directive": "A25"  
+      }
+      ,
+      {
+        "title": "Euro 6d",
+        "directive": "A28"  
+      }
+      ,
+      {
+        "title": "Euro 6c",
+        "directive": "A29"  
+      }
+      ,
+      {
+        "title": "Euro 6d-TEMP",
+        "directive": "A30"  
+      }
+      ,
+      {
+        "title": "Euro 6d",
+        "directive": "A31"  
+      }
+      ,
+      {
+        "title": "Euro 6b",
+        "directive": "A32"  
+      }
+      ,
+      {
+        "title": "Euro 6d-TEMP",
+        "directive": "A33"  
+      }
+      ,
+      {
+        "title": "Euro 0",
+        "directive": "B00"  
+      }
+      ,
+      {
+        "title": "Euro 1",
+        "directive": "B01"  
+      }
+      ,
+      {
+        "title": "Euro 2",
+        "directive": "B02" 
+      }
+      ,
+      {
+        "title": "Euro 3",
+        "directive": "B03" 
+      }
+      ,
+      {
+        "title": "Euro 4",
+        "directive": "B04" 
+      }
+      ,
+      {
+        "title": "Euro 5a",
+        "directive": "B5a" 
+      }
+      ,
+      {
+        "title": "Euro 5b",
+        "directive": "B5b" 
+      }
+      ,
+      {
+        "title": "Euro 6a",
+        "directive": "B6a" 
+      }
+      ,
+      {
+        "title": "Euro 6b",
+        "directive": "B6b" 
+      }
+      ,
+      {
+        "title": "Euro 6c",
+        "directive": "B6c" 
+      }
+      ,
+      {
+        "title": "Euro 6d",
+        "directive": "B6d" 
+      }
+      ,
+      {
+        "title": "Euro I",
+        "directive": "91/542A/EWG" 
+      }
+      ,
+      {
+        "title": "Euro II",
+        "directive": "91/542B/EWG" 
+      }
+      ,
+      {
+        "title": "Euro III",
+        "directive": "1999/96A/EG" 
+      }
+      ,
+      {
+        "title": "Euro IV",
+        "directive": "1999/96B1/EG" 
+      }
+      ,
+      {
+        "title": "Euro V",
+        "directive": "1999/96B2/EG" 
+      }
+      ,
+      {
+        "title": "Euro EEV",
+        "directive": "1999/96C/EG" 
+      }
+      ,
+      {
+        "title": "Euro III",
+        "directive": "2001/27A/EG" 
+      }
+      ,
+      {
+        "title": "Euro IV",
+        "directive": "2001/27B1/EG" 
+      }
+      ,
+      {
+        "title": "Euro V",
+        "directive": "2001/27B2/EG" 
+      }
+      ,
+      {
+        "title": "Euro EEV",
+        "directive": "2001/27C/EG" 
+      }
+      ,
+      {
+        "title": "Euro III",
+        "directive": "2005/78A/EG" 
+      }
+      ,
+      {
+        "title": "Euro IV",
+        "directive": "2005/78B/EG" 
+      }
+      ,
+      {
+        "title": "Euro IV",
+        "directive": "2005/78C/EG" 
+      }
+      ,
+      {
+        "title": "Euro V",
+        "directive": "2005/78D/EG" 
+      }
+      ,
+      {
+        "title": "Euro V",
+        "directive": "2005/78E/EG"
+      }
+      ,
+      {
+        "title": "Euro V",
+        "directive": "2005/78F/EG"
+      }
+      ,
+      {
+        "title": "Euro V",
+        "directive": "2005/78G/EG"
+      }
+      ,
+      {
+        "title": "Euro EEV",
+        "directive": "2005/78H/EG"
+      }
+      ,
+      {
+        "title": "Euro EEV",
+        "directive": "2005/78I/EG"
+      }
+      ,
+      {
+        "title": "Euro EEV",
+        "directive": "2005/78J/EG"
+      }
+      ,
+      {
+        "title": "Euro EEV",
+        "directive": "2005/78K/EG"
+      }
+      ,
+      {
+        "title": "Euro III",
+        "directive": "2006/51A/EG" 
+      }
+      ,
+      {
+        "title": "Euro IV",
+        "directive": "2006/51B/EG" 
+      }
+      ,
+      {
+        "title": "Euro IV",
+        "directive": "2006/51C/EG" 
+      }
+      ,
+      {
+        "title": "Euro V",
+        "directive": "2006/51D/EG" 
+      }
+      ,
+      {
+        "title": "Euro V",
+        "directive": "2006/51D/EG" 
+      }
+      ,
+      {
+        "title": "Euro V",
+        "directive": "2006/51F/EG" 
+      }
+      ,
+      {
+        "title": "Euro V",
+        "directive": "2006/51G/EG" 
+      }
+      ,
+      {
+        "title": "Euro EEV",
+        "directive": "2006/51H/EG" 
+      }
+      ,
+      {
+        "title": "Euro EEV",
+        "directive": "2006/51I/EG" 
+      }
+      ,
+      {
+        "title": "Euro EEV",
+        "directive": "2006/51J/EG" 
+      }
+      ,
+      {
+        "title": "Euro EEV",
+        "directive": "2006/51K/EG" 
+      }
+      ,
+      {
+        "title": "Euro III",
+        "directive": "2006/81A/EG" 
+      }
+      ,
+      {
+        "title": "Euro IV",
+        "directive": "2006/81B/EG" 
+      }
+      ,
+      {
+        "title": "Euro IV",
+        "directive": "2006/81C/EG" 
+      }
+      ,
+      {
+        "title": "Euro V",
+        "directive": "2006/81D/EG" 
+      }
+      ,
+      {
+        "title": "Euro V",
+        "directive": "2006/81E/EG" 
+      }
+      ,
+      {
+        "title": "Euro V",
+        "directive": "2006/81F/EG" 
+      }
+      ,
+      {
+        "title": "Euro V",
+        "directive": "2006/81G/EG" 
+      }
+      ,
+      {
+        "title": "Euro EEV",
+        "directive": "2006/81H/EG" 
+      }
+      ,
+      {
+        "title": "Euro EEV",
+        "directive": "2006/81I/EG"
+      }
+      ,
+      {
+        "title": "Euro EEV",
+        "directive": "2006/81J/EG"
+      }
+      ,
+      {
+        "title": "Euro EEV",
+        "directive": "2006/81K/EG"
+      }
+      ,
+      {
+        "title": "Euro V",
+        "directive": "2006/74D/EG" 
+      }
+      ,
+      {
+        "title": "Euro V",
+        "directive": "2006/74E/EG" 
+      }
+      ,
+      {
+        "title": "Euro V",
+        "directive": "2006/74F/EG" 
+      }
+      ,
+      {
+        "title": "Euro V",
+        "directive": "2006/74G/EG" 
+      }
+      ,
+      {
+        "title": "Euro EEV",
+        "directive": "2006/74H/EG" 
+      }
+      ,
+      {
+        "title": "Euro EEV",
+        "directive": "2006/74I/EG"
+      }
+      ,
+      {
+        "title": "Euro EEV",
+        "directive": "2006/74J/EG"
+      }
+      ,
+      {
+        "title": "Euro EEV",
+        "directive": "2006/74K/EG"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "(EU)64/2012A"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "(EU)64/2012B"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "(EU)64/2012C"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "(EU)133/2014A"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "(EU)133/2014B"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "(EU)133/2014C"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "(EU)136/2014A"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "(EU)136/2014B"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "(EU)136/2014C"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "(EU)627/2014A"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "(EU)627/2014B"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "(EU)627/2014C"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "(EU)2016/1718A"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "(EU)2016/1718B"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "(EU)2016/1718C"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "(EU)2017/1347A"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "(EU)2017/1347B"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "(EU)2017/1347C"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "(EU)2017/1347D"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "(EU)2017/2400A"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "(EU)2017/2400B"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "(EU)2017/2400C"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "(EU)2017/2400D"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "(EU)2018/932A"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "(EU)2018/932B"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "(EU)2018/932C"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "(EU)2018/932D"
+      }
+      ,
+      {
+        "title": "Euro 0",
+        "directive": "ECE-R49.00"
+      }
+      ,
+      {
+        "title": "Euro 0",
+        "directive": "ECE-R49.01"
+      }
+      ,
+      {
+        "title": "Euro I",
+        "directive": "ECE-R49.02"
+      }
+      ,
+      {
+        "title": "Euro I",
+        "directive": "ECE-R49.02 A"
+      }
+      ,
+      {
+        "title": "Euro II",
+        "directive": "ECE-R49.02 B"
+      }
+      ,
+      {
+        "title": "Euro III",
+        "directive": "ECE-R49.03"
+      }
+      ,
+      {
+        "title": "Euro III",
+        "directive": "ECE-R49.03 A"
+      }
+      ,
+      {
+        "title": "Euro IV",
+        "directive": "ECE-R49.03 B1"
+      }
+      ,
+      {
+        "title": "Euro IV",
+        "directive": "ECE-R49.03B1"
+      }
+      ,
+      {
+        "title": "Euro IV",
+        "directive": "ECE-R49.04B"
+      }
+      ,
+      {
+        "title": "Euro IV",
+        "directive": "ECE-R49.04B1"
+      }
+      ,
+      {
+        "title": "Euro V",
+        "directive": "ECE-R49.03 B2"
+      }
+      ,
+      {
+        "title": "Euro III",
+        "directive": "ECE-R49.04"
+      }
+      ,
+      {
+        "title": "Euro III",
+        "directive": "ECE-R49.04 A"
+      }
+      ,
+      {
+        "title": "Euro IV",
+        "directive": "ECE-R49.04 B1"
+      }
+      ,
+      {
+        "title": "Euro V",
+        "directive": "ECE-R49.04 B2"
+      }
+      ,
+      {
+        "title": "Euro EEV",
+        "directive": "ECE-R49.03 C"
+      }
+      ,
+      {
+        "title": "Euro EEV",
+        "directive": "ECE-R49.04 C"
+      }
+      ,
+      {
+        "title": "Euro III",
+        "directive": "ECE-R49.05B"
+      }
+      ,
+      {
+        "title": "Euro III",
+        "directive": "ECE-R49.05C"
+      }
+      ,
+      {
+        "title": "Euro V",
+        "directive": "ECE-R49.05D"
+      }
+      ,
+      {
+        "title": "Euro V",
+        "directive": "ECE-R49.05E"
+      }
+      ,
+      {
+        "title": "Euro V",
+        "directive": "ECE-R49.05F"
+      }
+      ,
+      {
+        "title": "Euro V",
+        "directive": "ECE-R49.05G"
+      }
+      ,
+      {
+        "title": "Euro EEV",
+        "directive": "ECE-R49.05H"
+      }
+      ,
+      {
+        "title": "Euro EEV",
+        "directive": "ECE-R49.05I"
+      }
+      ,
+      {
+        "title": "Euro EEV",
+        "directive": "ECE-R49.05J"
+      }
+      ,
+      {
+        "title": "Euro EEV",
+        "directive": "ECE-R49.05K"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "ECE-R49.06A"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "ECE-R49.06B"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "ECE-R49.06C"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "ECE-R49.06D"
+      }
+      ,
+      {
+        "title": "Euro I",
+        "directive": "SKL: S1"
+      }
+      ,
+      {
+        "title": "Euro I",
+        "directive": "SKL: S1, GKL: G1"
+      }
+      ,
+      {
+        "title": "Euro II",
+        "directive": "SKL: S2"
+      }
+      ,
+      {
+        "title": "Euro II",
+        "directive": "SKL: S2, GKL: G1"
+      }
+      ,
+      {
+        "title": "Euro I",
+        "directive": "93/59/EWG I-III"
+      }
+      ,
+      {
+        "title": "Euro I",
+        "directive": "93/59/I GKL: G1"
+      }
+      ,
+      {
+        "title": "Euro II",
+        "directive": "96/69/EG I"
+      }
+      ,
+      {
+        "title": "Euro III",
+        "directive": "98/69/EG I; A"
+      }
+      ,
+      {
+        "title": "Euro IV",
+        "directive": "96/69/EG B"
+      }
+      ,
+      {
+        "title": "Euro I",
+        "directive": "93/59/II GKL: G1"
+      }
+      ,
+      {
+        "title": "Euro I",
+        "directive": "96/69/EG II-III"
+      }
+      ,
+      {
+        "title": "Euro II",
+        "directive": "98/69/EG II; A"
+      }
+      ,
+      {
+        "title": "Euro III",
+        "directive": "98/69/EG II; B"
+      }
+      ,
+      {
+        "title": "Euro I",
+        "directive": "93/59/III GKL: G1"
+      }
+      ,
+      {
+        "title": "Euro II",
+        "directive": "98/69/EG III; A"
+      }
+      ,
+      {
+        "title": "Euro III",
+        "directive": "98/69/EG III; B"
+      }
+      ,
+      {
+        "title": "Euro II",
+        "directive": "94/12/EG (M)"
+      }
+      ,
+      {
+        "title": "Euro III",
+        "directive": "1999/96/EG; A"
+      }
+      ,
+      {
+        "title": "Euro IV",
+        "directive": "1999/96/EG; B1; B2; C; EEV 5"
+      }
+      ,
+      {
+        "title": "Euro IV",
+        "directive": "1999/96/EG; B1"
+      }
+      ,
+      {
+        "title": "Euro IV",
+        "directive": "1999/96/EG; B1; B2"
+      }
+      ,
+      {
+        "title": "Euro IV",
+        "directive": "1999/96/EG; C; EEV 5"
+      }
+      ,
+      {
+        "title": "Euro EEV",
+        "directive": "1999/96/EG; C; EEV"
+      }
+      ,
+      {
+        "title": "Euro V",
+        "directive": "1999/96/EG; B2"
+      }
+      ,
+      {
+        "title": "Euro IV",
+        "directive": "2008/74B"
+      }
+      ,
+      {
+        "title": "Euro IV",
+        "directive": "2008/74B1"
+      }
+      ,
+      {
+        "title": "Euro V",
+        "directive": "2008/74D/EG"
+      }
+      ,
+      {
+        "title": "Euro V",
+        "directive": "2008/74E/EG"
+      }
+      ,
+      {
+        "title": "Euro V",
+        "directive": "2008/74F/EG"
+      }
+      ,
+      {
+        "title": "Euro V",
+        "directive": "2008/74G/EG"
+      }
+      ,
+      {
+        "title": "Euro EEV",
+        "directive": "2008/74H/EG"
+      }
+      ,
+      {
+        "title": "Euro EEV",
+        "directive": "2008/74I/EG"
+      }
+      ,
+      {
+        "title": "Euro EEV",
+        "directive": "2008/74J/EG"
+      }
+      ,
+      {
+        "title": "Euro EEV",
+        "directive": "2008/74K/EG"
+      }
+      ,
+      {
+        "title": "Euro IV",
+        "directive": "2008/74C"
+      }
+      ,
+      {
+        "title": "Euro IV",
+        "directive": "83(R)II"
+      }
+      ,
+      {
+        "title": "Euro V",
+        "directive": "ECE-R49.03B2"
+      }
+      ,
+      {
+        "title": "Euro V",
+        "directive": "ECE-R49.04B2"
+      }
+      ,
+      {
+        "title": "Euro V",
+        "directive": "83(R)III"
+      }
+      ,
+      {
+        "title": "Euro V",
+        "directive": "1999/96B2"
+      }
+      ,
+      {
+        "title": "Euro V",
+        "directive": "2001/27B2"
+      }
+      ,
+      {
+        "title": "Euro V",
+        "directive": "2001/55B2"
+      }
+      ,
+      {
+        "title": "Euro V",
+        "directive": "2001/78B2"
+      }
+      ,
+      {
+        "title": "Euro V",
+        "directive": "2006/51B2"
+      }
+      ,
+      {
+        "title": "Euro V",
+        "directive": "2006/81B2"
+      }
+      ,
+      {
+        "title": "Euro V",
+        "directive": "2006/96B2"
+      }
+      ,
+      {
+        "title": "Euro V",
+        "directive": "715/2007A"
+      }
+      ,
+      {
+        "title": "Euro V",
+        "directive": "2008/74B2"
+      }
+      ,
+      {
+        "title": "Euro V",
+        "directive": "692/2008A"
+      }
+      ,
+      {
+        "title": "Euro V",
+        "directive": "692/2011A"
+      }
+      ,
+      {
+        "title": "Euro V",
+        "directive": "459/2012A"
+      }
+      ,
+      {
+        "title": "Euro V",
+        "directive": "630/2012A"
+      }
+      ,
+      {
+        "title": "Euro V",
+        "directive": "143/2013A"
+      }
+      ,
+      {
+        "title": "Euro V",
+        "directive": "171/2013A"
+      }
+      ,
+      {
+        "title": "Euro V",
+        "directive": "195/2013A"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "49(R)IV"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "49.03C"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "49.04C"
+      }
+      ,
+      {
+        "title": "Euro EEV",
+        "directive": "49.05C-EEV"
+      }
+      ,
+      {
+        "title": "Euro EEV",
+        "directive": "1999/96C-EEV"
+      }
+      ,
+      {
+        "title": "Euro EEV",
+        "directive": "2005/55C-EEV"
+      }
+      ,
+      {
+        "title": "Euro EEV",
+        "directive": "2005/55H-EEV"
+      }
+      ,
+      {
+        "title": "Euro EEV",
+        "directive": "2005/55I-EEV"
+      }
+      ,
+      {
+        "title": "Euro EEV",
+        "directive": "2005/55J-EEV"
+      }
+      ,
+      {
+        "title": "Euro EEV",
+        "directive": "2005/55K-EEV"
+      }
+      ,
+      {
+        "title": "Euro EEV",
+        "directive": "2005/78C-EEV"
+      }
+      ,
+      {
+        "title": "Euro EEV",
+        "directive": "2005/78H-EEV"
+      }
+      ,
+      {
+        "title": "Euro EEV",
+        "directive": "2005/78I-EEV"
+      }
+      ,
+      {
+        "title": "Euro EEV",
+        "directive": "2005/78J-EEV"
+      }
+      ,
+      {
+        "title": "Euro EEV",
+        "directive": "2005/78K-EEV"
+      }
+      ,
+      {
+        "title": "Euro EEV",
+        "directive": "2006/51C-EEV"
+      }
+      ,
+      {
+        "title": "Euro EEV",
+        "directive": "2006/51H-EEV"
+      }
+      ,
+      {
+        "title": "Euro EEV",
+        "directive": "2006/51I-EEV"
+      }
+      ,
+      {
+        "title": "Euro EEV",
+        "directive": "2006/51J-EEV"
+      }
+      ,
+      {
+        "title": "Euro EEV",
+        "directive": "2006/51K-EEV"
+      }
+      ,
+      {
+        "title": "Euro EEV",
+        "directive": "2006/81C-EEV"
+      }
+      ,
+      {
+        "title": "Euro EEV",
+        "directive": "2006/81H-EEV"
+      }
+      ,
+      {
+        "title": "Euro EEV",
+        "directive": "2006/81I-EEV"
+      }
+      ,
+      {
+        "title": "Euro EEV",
+        "directive": "2006/81J-EEV"
+      }
+      ,
+      {
+        "title": "Euro EEV",
+        "directive": "2006/81K-EEV"
+      }
+      ,
+      {
+        "title": "Euro EEV",
+        "directive": "2006/96C-EEV"
+      }
+      ,
+      {
+        "title": "Euro EEV",
+        "directive": "2006/96H-EEV"
+      }
+      ,
+      {
+        "title": "Euro EEV",
+        "directive": "2006/96I-EEV"
+      }
+      ,
+      {
+        "title": "Euro EEV",
+        "directive": "2006/96J-EEV"
+      }
+      ,
+      {
+        "title": "Euro EEV",
+        "directive": "2006/96K-EEV"
+      }
+      ,
+      {
+        "title": "Euro EEV",
+        "directive": "2008/74C-EEV"
+      }
+      ,
+      {
+        "title": "Euro EEV",
+        "directive": "2008/74H-EEV"
+      }
+      ,
+      {
+        "title": "Euro EEV",
+        "directive": "2008/74I-EEV"
+      }
+      ,
+      {
+        "title": "Euro EEV",
+        "directive": "2008/74J-EEV"
+      }
+      ,
+      {
+        "title": "Euro EEV",
+        "directive": "2008/74K-EEV"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "715/2007N"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "715/2007O"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "715/2007P"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "715/2007Q"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "715/2007R"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "715/2007S"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "715/2007T"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "715/2007U"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "715/2007V"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "715/2007W"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "715/2007X"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "715/2007Y"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "692/2008N"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "692/2008O"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "692/2008P"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "692/2008Q"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "692/2008R"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "692/2008S"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "692/2008T"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "692/2008U"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "692/2008V"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "692/2008W"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "692/2008X"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "692/2008Y"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "566/2011N"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "566/2011O"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "566/2011P"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "566/2011Q"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "566/2011R"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "566/2011S"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "566/2011T"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "566/2011U"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "566/2011V"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "566/2011W"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "566/2011X"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "566/2011Y"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "630/2012N"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "630/2012O"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "630/2012P"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "630/2012Q"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "630/2012R"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "630/2012S"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "630/2012T"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "630/2012U"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "630/2012V"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "630/2012W"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "630/2012X"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "630/2012Y"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "143/2013N"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "143/2013O"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "143/2013P"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "143/2013Q"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "143/2013R"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "143/2013S"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "143/2013T"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "143/2013U"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "143/2013V"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "143/2013W"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "143/2013X"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "143/2013Y"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "171/2013N"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "171/2013O"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "171/2013P"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "171/2013Q"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "171/2013R"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "171/2013S"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "171/2013T"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "171/2013U"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "171/2013V"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "171/2013W"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "171/2013X"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "171/2013Y"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "195/2013N"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "195/2013O"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "195/2013P"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "195/2013Q"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "195/2013R"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "195/2013S"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "195/2013T"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "195/2013U"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "195/2013V"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "195/2013W"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "195/2013X"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "195/2013Y"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "459/2012N"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "459/2012O"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "459/2012P"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "459/2012Q"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "459/2012R"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "459/2012S"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "459/2012T"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "459/2012U"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "459/2012V"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "459/2012W"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "459/2012X"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "459/2012Y"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "459/2012Z"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "595/2009"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "582/2011"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "64/2012"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "519/2013"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "133/2014"
+      }
+      ,
+      {
+        "title": "Euro VI",
+        "directive": "136/2014"
+      }
+      ,
+      {
+        "title": "Euro 2",
+        "directive": "S-ARM D3/D3 I"
+      }
+      ,
+      {
+        "title": "Euro 2",
+        "directive": "S-ARM D4/D4 I"
+      }
+      ,
+      {
+        "title": "Euro 3",
+        "directive": "98/69/EG I, A"
+      }
+      ,
+      {
+        "title": "Euro 2",
+        "directive": "98/69/EG II-III; A"
+      }
+      ,
+      {
+        "title": "Euro 3",
+        "directive": "98/69/EG I-III; A/D4 I"
+      }
+      ,
+      {
+        "title": "Euro 4",
+        "directive": "98/69/EG I; B"
+      }
+      ,
+      {
+        "title": "Euro 3",
+        "directive": "98/69/EG II-III, B"
+      }
+      ,
+      {
+        "title": "Euro 3",
+        "directive": "1999/96/EG; A"
+      }
+      ,
+      {
+        "title": "Euro 0",
+        "directive": "88/77/EWG"
+      }
+      ,
+      {
+        "title": "Euro I",
+        "directive": "91/542/EWG"
+      }
+      ,
+      {
+        "title": "Euro I",
+        "directive": "96/1A/EG"
+      }
+      ,
+      {
+        "title": "Euro I",
+        "directive": "96/1B/EG"
+      }
+      ,
+      {
+        "title": "Euro 4",
+        "directive": "(EU)134/2014A"
+      }
+      ,
+      {
+        "title": "Euro 4",
+        "directive": "(EU)134/2014A1"
+      }
+      ,
+      {
+        "title": "Euro 5",
+        "directive": "(EU)134/2014A2"
+      }
+      ,
+      {
+        "title": "Euro 4",
+        "directive": "(EU)2016/1824A"
+      }
+      ,
+      {
+        "title": "Euro 4",
+        "directive": "(EU)2016/1824A1"
+      }
+      ,
+      {
+        "title": "Euro 5",
+        "directive": "(EU)2016/1824A2"
+      }
+      ,
+      {
+        "title": "Euro 4",
+        "directive": "(EU)2018/295A"
+      }
+      ,
+      {
+        "title": "Euro 4",
+        "directive": "(EU)2018/295A1"
+      }
+      ,
+      {
+        "title": "Euro 5",
+        "directive": "(EU)2018/295A2"
+      }
+      ,
+      {
+        "title": "Euro 1",
+        "directive": "97/24"
+      }
+      ,
+      {
+        "title": "Euro 2",
+        "directive": "2002/51:A"
+      }
+      ,
+      {
+        "title": "Euro 3",
+        "directive": "2002/51:B"
+      }
+      ,
+      {
+        "title": "Euro 3",
+        "directive": "2006/72;C"
+      }
+    ]
+  
